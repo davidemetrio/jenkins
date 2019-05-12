@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: jenkins
+Build-Jdk: 1.7.0_121
+Extension-Name: kubernetes-ci
+Specification-Title: Provides integration between Jenkins and Kubernet
+ es for CI/CD scenarios based on charts
+Implementation-Title: kubernetes-ci
+Implementation-Version: 1.3
+Group-Id: com.elasticbox.jenkins-ci.plugins
+Short-Name: kubernetes-ci
+Long-Name: ElasticBox Jenkins Kubernetes CI/CD Plug-in
+Url: https://wiki.jenkins-ci.org/display/JENKINS/Kubernetes+CI+Plugin
+Compatible-Since-Version: 4.0.0
+Plugin-Version: 1.3
+Hudson-Version: 1.625.3
+Jenkins-Version: 1.625.3
+Plugin-Dependencies: credentials:1.28
+Plugin-Developers: Gustavo Llorente:GustavoLlorente:gustavo@elasticbox
+ .com,Guillermo Sanchez Urien:gsanchezu:guillermo@elasticbox.com
+

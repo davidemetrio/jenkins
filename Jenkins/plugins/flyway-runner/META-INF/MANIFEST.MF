@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: root
+Build-Jdk: 1.7.0_95
+Extension-Name: flyway-runner
+Specification-Title: Flyway Runner
+Implementation-Title: flyway-runner
+Implementation-Version: 1.9
+Group-Id: sp.sd
+Short-Name: flyway-runner
+Long-Name: Flyway Runner
+Url: https://wiki.jenkins-ci.org/display/JENKINS/Flyway+Runner+Plugin
+Compatible-Since-Version: 1.9
+Plugin-Version: 1.9
+Hudson-Version: 1.651.3
+Jenkins-Version: 1.651.3
+Plugin-Dependencies: structs:1.6,credentials:2.1.0,job-dsl:1.41;resolu
+ tion:=optional
+Plugin-Developers: Suresh Kumar:pskumar448:pskumar448@gmail.com
+

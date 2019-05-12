@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l:dependencies xmlns:l='licenses' groupId='sp.sd' artifactId='flyway-runner' version='1.9'><l:dependency name='Flyway Runner' groupId='sp.sd' artifactId='flyway-runner' version='1.9' url='https://wiki.jenkins-ci.org/display/JENKINS/Flyway+Runner+Plugin'><l:description>Flyway Runner</l:description><l:license name='MIT License' url='http://opensource.org/licenses/MIT'/></l:dependency></l:dependencies>

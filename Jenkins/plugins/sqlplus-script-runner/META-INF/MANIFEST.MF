@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: fb
+Build-Jdk: 1.8.0_161
+Extension-Name: sqlplus-script-runner
+Specification-Title: Run SQLPlus scripts on Jenkins
+Implementation-Title: sqlplus-script-runner
+Implementation-Version: 2.0.6
+Group-Id: org.jenkins-ci.plugins
+Short-Name: sqlplus-script-runner
+Long-Name: SQLPlus Script Runner
+Url: https://wiki.jenkins-ci.org/display/JENKINS/SQLPlus+Script+Runner
+ +Plugin
+Plugin-Version: 2.0.6
+Hudson-Version: 2.73.3
+Jenkins-Version: 2.73.3
+Plugin-Dependencies: workflow-step-api:2.4,credentials:2.1.17
+Plugin-Developers: Fernando Boaglio:boaglio:boaglio@gmail.com
+
